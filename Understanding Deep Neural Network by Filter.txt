@@ -1,0 +1,6 @@
+《Understanding Deep Neural Network by Filter Sensitive Area Generation Network》
+本文介绍了一种方式能够获得某个过滤器对图像的敏感区域，以此发现过滤器聚焦于图像的哪些部分。
+基本思想是采用一种mask遮蔽的思想，有如下两种变形，一种是filter sensitive area reservation，另一种是filter sensitive area occlusion。
+并通过实验证明了该方法的有效性。
+
+input image----》image feature map------》mask-------》mask image------》mask image feature map-----》loss
