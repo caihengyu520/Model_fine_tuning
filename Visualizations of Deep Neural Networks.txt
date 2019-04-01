@@ -1,0 +1,35 @@
+《Visualizations of Deep Neural Networks in Computer Vision A Survey》
+
+two key questions:
+RQ-1 Which insights can be gained about DNN models by means of visualization?
+RQ-2 Which visualization methods are appropriate for which kind of insights?
+
+visualization goals：
+ General Understanding:理解神经网络的一般行为
+Architecture Assessment:理解网络的哪一层代表哪些特性（如颜色，纹理等等）
+Model Quality Assessment:确定网络的层数以及每一层在可视化过程中扮演的角色
+User Feedback Integration: 
+
+visualization methods：
+Histogram
+Pixels Display
+Heat Map
+Similiarity Layout
+Confusion Matrix
+Node-link diagram
+
+computer vision tasks
+classification
+tracking
+recognition
+detection
+representation learning
+
+Network Architecture：
+DNN
+CNN
+RNN
+DCNN
+DBN
+CDBN
+MCDNN
