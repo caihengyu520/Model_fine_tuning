@@ -1,0 +1,5 @@
+Classic ML£ºOne dataset£¬one task£¬one heavy training
+
+Few-shot ML£ºHeavy offline training£¬then easy learning on similar task
+
+Developing ML£ºcontinuous life-long learning on various tasks
